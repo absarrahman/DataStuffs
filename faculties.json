@@ -1,0 +1,519 @@
+{
+  "CSE": [
+    {
+      "initial": "AAI",
+      "name": "Mr. Azwad Anjum Islam",
+      "email": "azwad.islam@bracu.ac.bd"
+    },
+    {
+      "initial": "AAR",
+      "name": "Mr. Annajiat Alim Rasel",
+      "email": "annajiat@bracu.ac.bd"
+    },
+    {
+      "initial": "ABA",
+      "name": "Mr. Mohammed Abid Abrar",
+      "email": "abid.abrar@bracu.ac.bd"
+    },
+    {
+      "initial": "ACH",
+      "name": "Dr. Amitabha Chakrabarty",
+      "email": "amitabha@bracu.ac.bd"
+    },
+    {
+      "initial": "AHR",
+      "name": "Ms. Ahanaf Hassan Rodoshi",
+      "email": "ahanaf.hassan@bracu.ac.bd"
+    },
+    {
+      "initial": "AKH",
+      "name": "Ms. Afrina Khatun",
+      "email": "afrina.khatun@bracu.ac.bd"
+    },
+    {
+      "initial": "AKO",
+      "name": "Mr. Mujtahid Al-Islam Akon",
+      "email": "mujtahid.akon@bracu.ac.bd"
+    },
+    {
+      "initial": "AMK",
+      "name": "Dr. Abu Mohammad Khan",
+      "email": "abu.khan@bracu.ac.bd"
+    },
+    {
+      "initial": "ARF",
+      "name": "Mr. Arif Shakil",
+      "email": "arif.shakil@bracu.ac.bd"
+    },
+    {
+      "initial": "ARK",
+      "name": "Ms. Arnisha Khondaker",
+      "email": "arnisha.khondaker@bracu.ac.bd"
+    },
+    {
+      "initial": "ARR",
+      "name": "Mr. Aritro Roy Arko",
+      "email": "aritro.roy@bracu.ac.bd"
+    },
+    {
+      "initial": "ASA",
+      "name": "Dr. Md. Ashraful Alam",
+      "email": "ashraful.alam@bracu.ac.bd"
+    },
+    {
+      "initial": "DZK",
+      "name": "Mr. Dewan Ziaul Karim",
+      "email": "ziaul.karim@bracu.ac.bd"
+    },
+    {
+      "initial": "EHK",
+      "name": "Mr. Ehsanul Kabir",
+      "email": "ehsanul.kabir@bracu.ac.bd"
+    },
+    {
+      "initial": "ESF",
+      "name": "Mr. A. M. Esfar-E-Alam",
+      "email": "esfar.alam@bracu.ac.bd"
+    },
+    {
+      "initial": "FBA",
+      "name": "Mr. Faisal Bin Ashraf",
+      "email": "faisal.ashraf@bracu.ac.bd"
+    },
+    {
+      "initial": "FFS",
+      "name": "Mr. Fahim Ferdous",
+      "email": "fahim.ferdous@bracu.ac.bd"
+    },
+    {
+      "initial": "FSH",
+      "name": "Ms. Farhana Shahid",
+      "email": "farhana.shahid@bracu.ac.bd"
+    },
+    {
+      "initial": "HOS",
+      "name": "Mr. Hossain Arif",
+      "email": "hossain.arif@bracu.ac.bd"
+    },
+    {
+      "initial": "IBU",
+      "name": "Ms. Ipshita Bonhi Upoma",
+      "email": "ipshita.upoma@bracu.ac.bd"
+    },
+    {
+      "initial": "ISH",
+      "name": "Mr. Ismail Hossain",
+      "email": "ismail.hossain@bracu.ac.bd"
+    },
+    {
+      "initial": "JNM",
+      "name": "Ms. Jannatun Noor Mukta",
+      "email": "jannatun.noor@bracu.ac.bd"
+    },
+    {
+      "initial": "KHR",
+      "name": "Dr. Md. Khalilur Rahman",
+      "email": "khalilur@bracu.ac.bd"
+    },
+    {
+      "initial": "MAM",
+      "name": "Dr. Mahbubul Alam Majumdar",
+      "email": "majumdar@bracu.ac.bd"
+    },
+    {
+      "initial": "MFT",
+      "name": "Mr. Mirza Farhan Bin Tarek",
+      "email": "mirza.tarek@bracu.ac.bd"
+    },
+    {
+      "initial": "MGR",
+      "name": "Dr. Md. Golam Rabiul Alam",
+      "email": "rabiul.alam@bracu.ac.bd"
+    },
+    {
+      "initial": "MHT",
+      "name": "Ms. Mahrin Tasfe",
+      "email": "mahrin.tasfe@bracu.ac.bd"
+    },
+    {
+      "initial": "MIH",
+      "name": "Dr. Muhammad Iqbal Hossain",
+      "email": "iqbal.hossain@bracu.ac.bd"
+    },
+    {
+      "initial": "MMM",
+      "name": "Mr. Moin Mostakim",
+      "email": "mostakim@bracu.ac.bd"
+    },
+    {
+      "initial": "MRA",
+      "name": "Mr. Mostafijur Rahman Akhond",
+      "email": "mostafij.akhond@bracu.ac.bd"
+    },
+    {
+      "initial": "MRN",
+      "name": "Mr. Md. Mahabur Rahman",
+      "email": "mahabur.rahman@bracu.ac.bd"
+    },
+    {
+      "initial": "MSA",
+      "name": "Dr. Matin Saad Abdullah",
+      "email": ""
+    },
+    {
+      "initial": "MSI",
+      "name": "Mr. Md. Saiful Islam",
+      "email": "md.saiful.islam@bracu.ac.bd"
+    },
+    {
+      "initial": "MZH",
+      "name": "Mr. Mohammad Zahidul Hasan",
+      "email": "zadid.hasan@bracu.ac.bd"
+    },
+    {
+      "initial": "MZP",
+      "name": "Dr. Mohammad Zavid Parvez",
+      "email": "zavid.parvez@bracu.ac.bd"
+    },
+    {
+      "initial": "NNC",
+      "name": "Ms. Najeefa Nikhat Choudhury",
+      "email": "najeefa.chy@bracu.ac.bd"
+    },
+    {
+      "initial": "NRT",
+      "name": "Ms. Nadia Rubaiyat",
+      "email": "nadia.rubaiyat@bracu.ac.bd"
+    },
+    {
+      "initial": "NSK",
+      "name": "Mr. Nazmus Sakeef",
+      "email": "nazmus.sakeef@bracu.ac.bd"
+    },
+    {
+      "initial": "NZN",
+      "name": "Mr. Nabuat Zaman Nahim",
+      "email": "nabuat.zaman@bracu.ac.bd"
+    },
+    {
+      "initial": "RAF",
+      "name": "Mr. Md. Tahmid Ul Islam Rafi",
+      "email": "rafi.tahmid@bracu.ac.bd"
+    },
+    {
+      "initial": "RAK",
+      "name": "Mr. Rubayat Ahmed Khan",
+      "email": "rubayat.ahmed@bracu.ac.bd"
+    },
+    {
+      "initial": "RAA",
+      "name": "Mr. Rasif Ajwad",
+      "email": "rasif.ajwad@bracu.ac.bd"
+    },
+    {
+      "initial": "RSA",
+      "name": "Mr. Ramkrishna Saha",
+      "email": "rk.saha@bracu.ac.bd"
+    },
+    {
+      "initial": "RYB",
+      "name": "Mr. Md. Rayhan Kabir",
+      "email": "rayhan.kabir@bracu.ac.bd"
+    },
+    {
+      "initial": "SAA",
+      "name": "Mr. Samin Azhan",
+      "email": "samin.azhan@g.bracu.ac.bd"
+    },
+    {
+      "initial": "SAD",
+      "name": "Mr. Salman Sayeed Khan",
+      "email": "salman.sayeed@bracu.ac.bd"
+    },
+    {
+      "initial": "SAF",
+      "name": "Ms. Safwana Haque",
+      "email": "safwana.haque@bracu.ac.bd"
+    },
+    {
+      "initial": "SEJ",
+      "name": "Ms. Sifat E Jahan",
+      "email": "sifat.jahan@bracu.ac.bd"
+    },
+    {
+      "initial": "SHA",
+      "name": "Mr. Shahnewaz Ahmed",
+      "email": "shahnewaz.ahmed@bracu.ac.bd"
+    },
+    {
+      "initial": "SHS",
+      "name": "Mr. Shadman Shahriar",
+      "email": "shadman.shahriar@bracu.ac.bd"
+    },
+    {
+      "initial": "SKZ",
+      "name": "Ms. Sadia Hamid Kazi",
+      "email": "skazi@bracu.ac.bd"
+    },
+    {
+      "initial": "SMU",
+      "name": "Mr. Mirza Md. Tanjim Shorif Mugdho",
+      "email": "mirza.mugdho@bracu.ac.bd"
+    },
+    {
+      "initial": "SOD",
+      "name": "Mr. Sowmitra Das",
+      "email": "sowmitra.das@bracu.ac.bd"
+    },
+    {
+      "initial": "SRF",
+      "name": "Ms. Syeda Ramisa Fariha",
+      "email": "ramisa.fariha@bracu.ac.bd"
+    },
+    {
+      "initial": "SRJ",
+      "name": "Ms. Mehnaz Seraj",
+      "email": "seraj.mehnaz@bracu.ac.bd"
+    },
+    {
+      "initial": "SRO",
+      "name": "Ms. Shaily Roy",
+      "email": "shaily.roy@bracu.ac.bd"
+    },
+    {
+      "initial": "SSN",
+      "name": "Mr. Mirza Md. Tausif Shorif Snigdho",
+      "email": "mirza.tausif@bracu.ac.bd"
+    },
+    {
+      "initial": "SZH",
+      "name": "Mr. Syed Zamil Hasan Shoumo",
+      "email": "shoumo.hasan@bracu.ac.bd"
+    },
+    {
+      "initial": "SZI",
+      "name": "Ms. Sabrina Zaman Ishita",
+      "email": "sz.ishita@bracu.ac.bd"
+    },
+    {
+      "initial": "SZN",
+      "name": "Ms. Shakila Zaman",
+      "email": "shakila.zaman@bracu.ac.bd"
+    },
+    {
+      "initial": "TAA",
+      "name": "Tanvir Ahmed",
+      "email": "tanvir.ahmed@bracu.ac.bd"
+    },
+    {
+      "initial": "THD",
+      "name": "Mr. Md. Tawhid Anwar",
+      "email": "tawhid.anwar@bracu.ac.bd"
+    },
+    {
+      "initial": "TNR",
+      "name": "Mr. Tanvir Rahman",
+      "email": "tanvir.rahman@bracu.ac.bd"
+    },
+    {
+      "initial": "TRD",
+      "name": "Ms. Trisha Das",
+      "email": "trisha.cse@bracu.ac.bd"
+    },
+    {
+      "initial": "TRZ",
+      "name": "Md. Tanzim Reza",
+      "email": "md.tanzim.reza@g.bracu.ac.bd"
+    },
+    {
+      "initial": "WAA",
+      "name": "Mr. Wasif Ahmed",
+      "email": "wasif.ahmed@bracu.ac.bd"
+    },
+    {
+      "initial": "WAR",
+      "name": "Ms. Warida Rashid",
+      "email": "warida.rashid@bracu.ac.bd"
+    },
+    {
+      "initial": "ADR",
+      "name": "Md. Abdur Rahman",
+      "email": ""
+    },
+    {
+      "initial": "AHF",
+      "name": "",
+      "email": ""
+    },
+    {
+      "initial": "ATR",
+      "name": "",
+      "email": ""
+    },
+    {
+      "initial": "C23",
+      "name": "Joydhriti Choudhury",
+      "email": "joydhriti.choudhury@g.bracu.ac.bd"
+    },
+    {
+      "initial": "C04",
+      "name": "Ahnaf Atef Choudhury",
+      "email": "ahnafchoudhury11@gmail.com"
+    },
+    {
+      "initial": "C01",
+      "name": "Abu Mohammad Shabbir Khan",
+      "email": "shabbir.khan0308@gmail.com"
+    },
+    {
+      "initial": "C02",
+      "name": "Wasif Shafaet Chowdhury",
+      "email": "wasif.shafaet.chowdhury@g.bracu.ac.bd"
+    },
+    {
+      "initial": "C03",
+      "name": "Shamse Tasnim Cynthia",
+      "email": "cnth999@gmail.com"
+    },
+    {
+      "initial": "C05",
+      "name": "Tamkin Mahmud Tan",
+      "email": "tamkintan@gmail.com"
+    },
+    {
+      "initial": "C06",
+      "name": "Asadullah Al Galib",
+      "email": "asadullahgalib13@gmail.com"
+    },
+    {
+      "initial": "C07",
+      "name": "Arif Shahriar",
+      "email": "arifanik28@gmail.com"
+    },
+    {
+      "initial": "C08",
+      "name": "Tahsin Mostafa",
+      "email": "tahsin.mostafa@g.bracu.ac.bd"
+    },
+    {
+      "initial": "C09",
+      "name": "Farzad Ahmed",
+      "email": "farzadahmed6@gmail.com"
+    },
+    {
+      "initial": "C10",
+      "name": "Adiba Mahbub Proma",
+      "email": "adiba.mahbub.proma@g.bracu.ac.bd"
+    },
+    {
+      "initial": "C11",
+      "name": "A. K. M. Amanat Ullah",
+      "email": "amanat.ndc@gmail.com"
+    },
+    {
+      "initial": "C12",
+      "name": "Fahim Faisal",
+      "email": "fahimemcee@gmail.com"
+    },
+    {
+      "initial": "C13",
+      "name": "SIFAT UT TAKI",
+      "email": "sifat.ut.taki@g.bracu.ac.bd"
+    },
+    {
+      "initial": "C14",
+      "name": "Saadat Hasan Khan",
+      "email": "ksaadat09@gmail.com"
+    },
+    {
+      "initial": "C15",
+      "name": "Prommy Sultana Hossain",
+      "email": "prommyshm@gmail.com"
+    },
+    {
+      "initial": "C16",
+      "name": "Fayza Amreen",
+      "email": "amreen.aust32@gmail.com"
+    },
+    {
+      "initial": "C17",
+      "name": "H.M Sadman Amin",
+      "email": "h.m.sadman.amin@g.bracu.ac.bd"
+    },
+    {
+      "initial": "C18",
+      "name": "Jumana",
+      "email": "jumana.quni22@gmail.com"
+    },
+    {
+      "initial": "C19",
+      "name": "Souvik Kundu",
+      "email": "souvikkundu06@gmail.com"
+    },
+    {
+      "initial": "C20",
+      "name": "Modhumonty Das",
+      "email": "modhumanty.sreya@gmail.com"
+    },
+    {
+      "initial": "C21",
+      "name": "Fairoz Nower Khan",
+      "email": "fairoznowerkhan@gmail.com"
+    },
+    {
+      "initial": "C22",
+      "name": "MAHI ZAKIR",
+      "email": "mahi.zakir@g.bracu.ac.bd"
+    },
+    {
+      "initial": "C24",
+      "name": "Shakir Rouf",
+      "email": "adit.rouf@gmail.com"
+    },
+    {
+      "initial": "C25",
+      "name": "Moshiur Rahman",
+      "email": "moshiur.rahman@g.bracu.ac.bd"
+    },
+    {
+      "initial": "C26",
+      "name": "Md. Muzahidul Islam Rahi",
+      "email": "md.muzahidul.islam.rahi@g.bracu.ac.bd"
+    },
+    {
+      "initial": "C27",
+      "name": "MD. SAJIBUR RAHMAN SARKER",
+      "email": "sarkersajib.bracu@gmail.com"
+    },
+    {
+      "initial": "C28",
+      "name": "MD REZWAN HASSAN KHAN",
+      "email": "md.rezwan.hassan.khan@g.bracu.ac.bd"
+    },
+    {
+      "initial": "C29",
+      "name": "Anna Mary Mondol",
+      "email": "anna.mary.mondol@g.bracu.ac.bd"
+    },
+    {
+      "initial": "C30",
+      "name": "Mohammad Badrul Hossain",
+      "email": "badrul.elprincipe22@gmail.com"
+    },
+    {
+      "initial": "C31",
+      "name": "Mahjabeen Tamanna Abed",
+      "email": "mahjabeen.tamanna.abed@g.bracu.ac.bd"
+    },
+    {
+      "initial": "C32",
+      "name": "Saquib Ahmed",
+      "email": "saquib.ahmed@g.bracu.ac.bd"
+    },
+    {
+      "initial": "RAN",
+      "name": "Shehran",
+      "email": ""
+    }
+  ]
+}
