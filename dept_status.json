@@ -7,6 +7,10 @@
     {
       "name": "ARC",
       "link": "https://raw.githubusercontent.com/absarrahman/DataStuffs/master/arc_faculties.json"
+    },
+    {
+      "name": "SoL",
+      "link": "https://raw.githubusercontent.com/absarrahman/DataStuffs/master/sol_faculties.json"
     }
   ]
 }
