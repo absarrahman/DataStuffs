@@ -1,0 +1,8 @@
+{
+  "dept": [
+    {
+      "name": "CSE",
+      "link": "cse_faculties.json"
+    }
+  ]
+}
