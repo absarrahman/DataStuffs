@@ -1,0 +1,12 @@
+{
+  "dept": [
+    {
+      "name": "CSE",
+      "link": "https://raw.githubusercontent.com/absarrahman/DataStuffs/master/cse_faculties.json"
+    },
+    {
+      "name": "ARC",
+      "link": "https://raw.githubusercontent.com/absarrahman/DataStuffs/master/arc_faculties.json"
+    }
+  ]
+}
