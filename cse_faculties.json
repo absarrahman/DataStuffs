@@ -351,6 +351,11 @@
       "email": ""
     },
     {
+      "initial": "DES",
+      "name": "Deboky Saha",
+      "email": ""
+    },
+    {
       "initial": "C23",
       "name": "Joydhriti Choudhury",
       "email": "joydhriti.choudhury@g.bracu.ac.bd"
@@ -507,13 +512,23 @@
     },
     {
       "initial": "C32",
-      "name": "Saquib Ahmed",
-      "email": "saquib.ahmed@g.bracu.ac.bd"
+      "name": "Benjir Islam Alvee",
+      "email": "benjir.islam@g.bracu.ac.bd"
     },
     {
-      "initial": "RAN",
-      "name": "Shehran",
-      "email": ""
+      "initial": "C33",
+      "name": "Mobashir Monim",
+      "email": "mobashir.monim@g.bracu.ac.bd"
+    },
+    {
+      "initial": "C34",
+      "name": "Nakhla Rafi",
+      "email": "nakhla.rafi@g.bracu.ac.bd"
+    },
+    {
+      "initial": "C35",
+      "name": "Nasif Noor Saleheen",
+      "email": "nasif.arnob1@gmail.com"
     }
   ]
 }
