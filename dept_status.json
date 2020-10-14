@@ -2,7 +2,7 @@
   "dept": [
     {
       "name": "CSE",
-      "link": "https://raw.githubusercontent.com/absarrahman/DataStuffs/master/cse_faculties.json"
+      "link": "https://raw.githubusercontent.com/absarrahman/DataStuffs/test/cse_faculties.json"
     },
     {
       "name": "EEE",
