@@ -29,6 +29,10 @@
       "link": "https://raw.githubusercontent.com/absarrahman/DataStuffs/master/bbs_faculties.json"
     },
     {
+      "name": "ENH",
+      "link": "https://raw.githubusercontent.com/absarrahman/DataStuffs/master/enh_faculties.json"
+    },
+    {
       "name": "SoL",
       "link": "https://raw.githubusercontent.com/absarrahman/DataStuffs/master/sol_faculties.json"
     },
