@@ -1,0 +1,24 @@
+﻿{
+  "Controller of Examination's Office": [
+    {
+      "initial": "Controller of Examinations",
+      "name": "Mr. Ahmed Ataul Hakeem, FCMA",
+      "email": "ataul.hakeem@bracu.ac.bd"
+    },
+    {
+      "initial": "Deputy Manager",
+      "name": "Mahmuda Akter",
+      "email": "mahmuda.akter@bracu.ac.bd"
+    },
+    {
+      "initial": "Deputy Manager",
+      "name": "Yousuf Chowdhury",
+      "email": "yousuf@bracu.ac.bd"
+    },
+    {
+      "initial": "Assistant Manager",
+      "name": "Md. Sazzad Hossain",
+      "email": "sazzad.hossain@bracu.ac.bd"
+    }
+  ]
+}
