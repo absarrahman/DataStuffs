@@ -19,6 +19,14 @@
     {
       "name": "SoL",
       "link": "https://raw.githubusercontent.com/absarrahman/DataStuffs/master/sol_faculties.json"
+    },
+    {
+      "name": "Controller of Examination's Office",
+      "link": "https://raw.githubusercontent.com/absarrahman/DataStuffs/master/examination_office.json"
+    },
+    {
+      "name": "Registrar's Office",
+      "link": "https://raw.githubusercontent.com/absarrahman/DataStuffs/master/registrar_office.json"
     }
   ]
 }

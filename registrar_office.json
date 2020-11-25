@@ -1,0 +1,69 @@
+{
+  "Registrar's Office": [
+    {
+      "initial": "Registrar",
+      "name": "Dr David Dowland",
+      "email": "registrar@bracu.ac.bd"
+    },
+    {
+      "initial": "Joint Registrar",
+      "name": "Mr. Suman Paul Chowdhury, PhD",
+      "email": "spc@bracu.ac.bd"
+    },
+    {
+      "initial": "Deputy Registrar",
+      "name": "Mr. Md. Shamim Ahmed",
+      "email": "shamim.ahmed@bracu.ac.bd"
+    },
+    {
+      "initial": "Deputy Registrar, Admission",
+      "name": "Mr. Mohammad Shamim Azad",
+      "email": "shamim@bracu.ac.bd"
+    },
+    {
+      "initial": "Senior Asst. Registrar",
+      "name": "Mr. Shafik Waes",
+      "email": "waes@bracu.ac.bd"
+    },
+    {
+      "initial": "Manager",
+      "name": "Ms. Tamanna Chowdhury",
+      "email": "tchowdhury@bracu.ac.bd"
+    },
+    {
+      "initial": "Manager",
+      "name": "Md. Maksudur Rahman",
+      "email": "maksudur@bracu.ac.bd"
+    },
+    {
+      "initial": "Manager",
+      "name": "Fakrun Nahar Muniya",
+      "email": "muniya@bracu.ac.bd"
+    },
+    {
+      "initial": "Deputy Manager",
+      "name": "Farzana Yeasmin",
+      "email": "f.yeasmin@bracu.ac.bd"
+    },
+    {
+      "initial": "Deputy Manager",
+      "name": "Mr. Sk. Sadman Sakib",
+      "email": "sadman@bracu.ac.bd"
+    },
+    {
+      "initial": "Assistant Manager",
+      "name": "Mr. Md. Ashikur Rahman",
+      "email": "ashikur@bracu.ac.bd"
+    },
+    {
+      "initial": "Assistant Manager",
+      "name": "Mr. Md. Rakib Hassan",
+      "email": "rizve.rakib@bracu.ac.bd"
+    },
+    {
+      "initial": "Assistant Manager",
+      "name": "Ms. Faizah Raidah",
+      "email": "faizah.raidah@bracu.ac.bd"
+    }
+  ]
+}
