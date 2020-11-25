@@ -21,6 +21,10 @@
       "link": "https://raw.githubusercontent.com/absarrahman/DataStuffs/master/ess_faculties.json"
     },
     {
+      "name": "PHR",
+      "link": "https://raw.githubusercontent.com/absarrahman/DataStuffs/master/phr_faculties.json"
+    },
+    {
       "name": "BBS",
       "link": "https://raw.githubusercontent.com/absarrahman/DataStuffs/master/bbs_faculties.json"
     },
