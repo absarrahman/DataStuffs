@@ -9,6 +9,10 @@
       "link": "https://raw.githubusercontent.com/absarrahman/DataStuffs/master/eee_faculties.json"
     },
     {
+      "name": "MNS",
+      "link": "https://raw.githubusercontent.com/absarrahman/DataStuffs/master/mns_faculties.json"
+    },
+    {
       "name": "ARC",
       "link": "https://raw.githubusercontent.com/absarrahman/DataStuffs/master/arc_faculties.json"
     },
