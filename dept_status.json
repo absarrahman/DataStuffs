@@ -9,12 +9,32 @@
       "link": "https://raw.githubusercontent.com/absarrahman/DataStuffs/master/eee_faculties.json"
     },
     {
+      "name": "MNS",
+      "link": "https://raw.githubusercontent.com/absarrahman/DataStuffs/master/mns_faculties.json"
+    },
+    {
       "name": "ARC",
       "link": "https://raw.githubusercontent.com/absarrahman/DataStuffs/master/arc_faculties.json"
     },
     {
       "name": "ESS",
       "link": "https://raw.githubusercontent.com/absarrahman/DataStuffs/master/ess_faculties.json"
+    },
+    {
+      "name": "PHR",
+      "link": "https://raw.githubusercontent.com/absarrahman/DataStuffs/master/phr_faculties.json"
+    },
+    {
+      "name": "BBS",
+      "link": "https://raw.githubusercontent.com/absarrahman/DataStuffs/master/bbs_faculties.json"
+    },
+    {
+      "name": "BIL",
+      "link": "https://raw.githubusercontent.com/absarrahman/DataStuffs/master/bil_faculties.json"
+    },
+    {
+      "name": "ENH",
+      "link": "https://raw.githubusercontent.com/absarrahman/DataStuffs/master/enh_faculties.json"
     },
     {
       "name": "SoL",
