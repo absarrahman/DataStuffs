@@ -2,51 +2,51 @@
   "dept": [
     {
       "name": "CSE",
-      "link": "https://raw.githubusercontent.com/absarrahman/DataStuffs/test/cse_faculties.json"
+      "link": "cse"
     },
     {
       "name": "EEE",
-      "link": "https://raw.githubusercontent.com/absarrahman/DataStuffs/master/eee_faculties.json"
+      "link": "eee"
     },
     {
       "name": "MNS",
-      "link": "https://raw.githubusercontent.com/absarrahman/DataStuffs/master/mns_faculties.json"
+      "link": "mns"
     },
     {
       "name": "ARC",
-      "link": "https://raw.githubusercontent.com/absarrahman/DataStuffs/master/arc_faculties.json"
+      "link": "arc"
     },
     {
       "name": "ESS",
-      "link": "https://raw.githubusercontent.com/absarrahman/DataStuffs/master/ess_faculties.json"
+      "link": "ess"
     },
     {
       "name": "PHR",
-      "link": "https://raw.githubusercontent.com/absarrahman/DataStuffs/master/phr_faculties.json"
+      "link": "phr"
     },
     {
       "name": "BBS",
-      "link": "https://raw.githubusercontent.com/absarrahman/DataStuffs/master/bbs_faculties.json"
+      "link": "bbs"
     },
     {
       "name": "BIL",
-      "link": "https://raw.githubusercontent.com/absarrahman/DataStuffs/master/bil_faculties.json"
+      "link": "bil"
     },
     {
       "name": "ENH",
-      "link": "https://raw.githubusercontent.com/absarrahman/DataStuffs/master/enh_faculties.json"
+      "link": "enh"
     },
     {
       "name": "SoL",
-      "link": "https://raw.githubusercontent.com/absarrahman/DataStuffs/master/sol_faculties.json"
+      "link": "sol"
     },
     {
       "name": "Controller of Examination's Office",
-      "link": "https://raw.githubusercontent.com/absarrahman/DataStuffs/master/examination_office.json"
+      "link": "examiner"
     },
     {
       "name": "Registrar's Office",
-      "link": "https://raw.githubusercontent.com/absarrahman/DataStuffs/master/registrar_office.json"
+      "link": "registrar"
     }
   ]
 }
